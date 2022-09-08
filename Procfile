@@ -1,0 +1,1 @@
+web gunicorn helloapp2.wsgi:apllication --log-file -
